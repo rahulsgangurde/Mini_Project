@@ -17,5 +17,9 @@ added in master branch
 
 my name is rahul and i am a software developer.
 
+<<<<<<< HEAD
 
 \\\i work in idfy
+=======
+i work in tcs
+>>>>>>> 8f9f88f265f6fd51365867ef71f79912d7e83be9
