@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 rahul is my name and i am a software developer. 
 i have been working in the field of software development
  for the past 5 years. 
@@ -22,4 +20,3 @@ my name is rahul and i am a software developer.
 i work in tcs
 
 i now work in idfy
->>>>>>> eb39499cc7480677f927e8052ead7086c834aa06
